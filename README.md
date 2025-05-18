@@ -1,0 +1,1 @@
+Kjør med: `streamlit run app.py`
