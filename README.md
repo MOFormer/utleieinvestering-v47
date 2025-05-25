@@ -1,1 +1,1 @@
-# AMO Eiendom v48.2 – Robust versjon med inndata og stabil oppstart
+# AMO Eiendom v48.5.6 – fikser menyoppdatering og slett-knapp
