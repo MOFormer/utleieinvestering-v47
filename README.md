@@ -1,1 +1,1 @@
-Kjør med: `streamlit run app.py`
+# AMO Eiendom v48.2 – Robust versjon med inndata og stabil oppstart
